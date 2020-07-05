@@ -1,0 +1,27 @@
+header {
+  max-width: 100%;
+  display: flex;
+}
+#header-img {
+  width: 600px;
+  item-align: center;
+}
+h1 {
+  font-size: 20px;
+  font-style: comic-sans;
+}
+ul {
+  font-size: 30px;
+  display: center;
+  justify-content: space-arounnd;
+}
+#video  {
+  height: 250px;
+  }
+
+@media (max-width 400px) {
+  font-size: 40px;
+}
+#submit {
+  font-style: comic-sans;
+}
